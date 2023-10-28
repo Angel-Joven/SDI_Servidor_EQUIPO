@@ -1,5 +1,5 @@
 # SDI_Servidor_EQUIPO
-Repositorio para el servidor local (Colaborativo) en el curso Sistemas de Informacion
+Repositorio para el servidor local (Colaborativo) en el curso de Sistemas de Informacion (2024 -1)
 
 # Integrantes
 - Joven Jimenez Angel Cristian (Angel-Joven)
